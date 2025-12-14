@@ -7,8 +7,11 @@
 ### 👀 About Me
 - 🤖 I’m passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**
 - 🧠 I enjoy working on **data-driven solutions**, model training, and real-world AI applications
-- 📊 Experience in **data collection, annotation, preprocessing, and analysis**
-- 🚗 Interested in **Reinforcement Learning, Autonomous Systems, and Fraud Detection**
+- 📊 Experience in **Model Training, Data Collection, Annotation, Preprocessing, and Analysis**
+- 🚗 Interested in **Medical Chatbots, Reinforcement Learning, Autonomous Systems, and Fraud Detection**
+- 📧 Email: *allahbukhsh822@gmail.com*  
+- 💼 LinkedIn: *www.linkedin.com/in/allah-bukhsh-baloch*  
+- 🌐 Portfolio : *https://allahbukhsh.lovable.app/*
 
 ---
 
@@ -28,13 +31,6 @@
 
 ---
 
-### 📫 How to Reach Me
-- 📧 Email: *your-email@gmail.com*  
-- 💼 LinkedIn: *your-linkedin-profile*  
-- 🌐 Portfolio (optional): *your-portfolio-link*
-
----
-
 ### 😄 Pronouns
 - He / Him  
 
@@ -46,10 +42,10 @@ I love turning complex AI concepts into **practical, working projects** — from
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python  
+- **Languages:** Python
 - **Libraries & Tools:** NumPy, Pandas, OpenCV, Scikit-learn, TensorFlow, PyTorch  
 - **ML Techniques:** Supervised & Unsupervised Learning, Deep Learning, RL  
-- **Tools:** Jupyter Notebook, Git, GitHub  
+- **Tools:** Google Colab, Jupyter Notebook, Git, GitHub  
 
 ---
 
@@ -57,7 +53,7 @@ I love turning complex AI concepts into **practical, working projects** — from
 - 🚗 **SelfDrivingCar_Simulation_Using_RL_And_DQN**
 - 🔍 **Computer Vision Projects**
 - 💳 **Credit Card Fraud Detection**
-- 🌐 **ICAO Converter by ECI**
+- 🌐 **Medical ChatBot**
 - 📊 **DBSCAN & HDBSCAN Clustering**
 
 ---
