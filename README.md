@@ -15,11 +15,8 @@
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **Deep Learning & Computer Vision**
-- **Reinforcement Learning (DQN, RL-based simulations)**
-- Model optimization and deployment using Python
-- Exploring **real-world ML pipelines**
+### ⚡ Fun Fact
+I love turning complex AI concepts into **practical, working projects** — from self-driving simulations to fraud detection systems 🚀
 
 ---
 
@@ -27,17 +24,7 @@
 - AI & ML-based projects  
 - Computer Vision applications  
 - Deep Learning & Reinforcement Learning research  
-- Open-source Python projects  
-
----
-
-### 😄 Pronouns
-- He / Him  
-
----
-
-### ⚡ Fun Fact
-I love turning complex AI concepts into **practical, working projects** — from self-driving simulations to fraud detection systems 🚀
+- Open-source Python projects
 
 ---
 
@@ -49,12 +36,11 @@ I love turning complex AI concepts into **practical, working projects** — from
 
 ---
 
-### 📌 Featured Projects
-- 🚗 **SelfDrivingCar_Simulation_Using_RL_And_DQN**
-- 🔍 **Computer Vision Projects**
-- 💳 **Credit Card Fraud Detection**
-- 🌐 **Medical ChatBot**
-- 📊 **DBSCAN & HDBSCAN Clustering**
+### 🌱 Currently Learning
+- Advanced **Deep Learning & Computer Vision**
+- **Reinforcement Learning (DQN, RL-based simulations)**
+- Model optimization and deployment using Python
+- Exploring **real-world ML pipelines**
 
 ---
 
