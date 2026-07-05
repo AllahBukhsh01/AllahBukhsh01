@@ -21,7 +21,7 @@ visitor@github:~$ cat ./about_me.txt
 Name     : Allah Bukhsh
 Role     : AI Engineer @ Arcana Info
 Focus    : Agentic AI · LLMs · RAG Pipelines · Banking & Insurance AI
-Degree   : BS AI, PAF-KIET
+Degree   : BS AI (CGPA 3.36/04), PAF-KIET
 Location : Karachi, Pakistan
 Status   : [██████████░░] Shipping agentic systems for enterprise clients
 Collab   : OPEN — reach out anytime ✅
@@ -33,11 +33,11 @@ Collab   : OPEN — reach out anytime ✅
 
 - 🤖 Building **LLM-based chatbots & agentic AI systems** for enterprise banking/insurance clients — Allied Bank, State Bank of Pakistan, State Life Insurance, EFU Life Assurance, UBL
 - 🔗 Deep hands-on with **LangChain, LangGraph, RAG pipelines, FastAPI, n8n** workflow automation
-- 🏦 Shipped a full **Allied Bank Schedule-of-Charges automation system** — LLM-based extraction → PostgreSQL integration → automated HTML/PDF report generation
+- 🏦 Shipped a full **Allied Bank Schedule-of-Charges automation system**: LLM-based extraction → PostgreSQL integration → automated HTML/PDF report generation
 - 🗣️ Built a **voice & chat-enabled multilingual chatbot** for State Bank of Pakistan (3-agent architecture, LangChain + RAG + Arize Phoenix observability)
 - 🧩 Built a **multilingual RAG-based multi-agent system** for State Life Insurance with 6+ specialized agents (LangChain, LangGraph, LangSmith)
 - 🕌 Built a **near-zero-hallucination Islamic Q&A multi-agent system** (Pinecone + Cohere rerank + Groq/Llama + FastAPI)
-- 🔐 Designed **FPAAC** — a post-quantum-crypto IoT auth system (ML-KEM-1024 + X25519, ML-DSA-65, 4-factor MFA, hybrid RBAC+ABAC)
+- 🔐 Designed **FPAAC**: A post-quantum-crypto IoT auth system (ML-KEM-1024 + X25519, ML-DSA-65, 4-factor MFA, hybrid RBAC+ABAC)
 - 📈 Built a **LightGBM transaction forecasting pipeline** that improved forecast correlation over a SARIMA baseline
 - 🎓 Prior experience as Trainee Software Engineer @ Foxit Pvt. Ltd. (ASP.NET MVC, MySQL, RESTful APIs)
 
