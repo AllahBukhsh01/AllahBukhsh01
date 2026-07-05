@@ -100,7 +100,7 @@ Collab   : OPEN — reach out anytime ✅
 | [Medical Chatbot (LLM+LangChain+Pinecone)](https://github.com/AllahBukhsh01/Medical_Chatbot_Using_LLMs_LangChain_Pinecone_Flask-AWS) | RAG-based medical chatbot deployed on AWS | `LangChain` `Pinecone` `Flask` |
 | [Self-Driving Car Simulation](https://github.com/AllahBukhsh01/SelfDrivingCar_Simulation_Using_RL_And_DQN) | Autonomous driving sim using RL + DQN | `Python` `RL` `DQN` |
 | [Credit Card Fraud Detection](https://github.com/AllahBukhsh01/Credit-Card-Fraud-Detection) | Fraud detection on imbalanced transaction data | `Python` `Scikit-learn` |
-| [Computer Vision Projects](https://github.com/AllahBukhsh01/Computer-Vision-Projects) | Collection of applied CV experiments | `Python` `OpenCV` |
+| [Computer Vision Projects](https://github.com/AllahBukhsh01/Computer-Vision-Projects) | Collection of applied CV experiments | `Python` `OpenCV` `YOLO` `VGG16` `AlexNet` `U-Net` |
 | [Unsupervised Clustering](https://github.com/AllahBukhsh01/Unsupervised-Clustering-DBSCAN-HDBSCAN) | DBSCAN vs HDBSCAN comparison | `Python` `Scikit-learn` |
 
 ---
