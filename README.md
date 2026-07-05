@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Allah+Bukhsh+%F0%9F%91%8B;Associate+AI+Engineer+%40+Arcana+Info;Building+Agentic+AI+%26+RAG+Systems;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+n8n" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Allah+Bukhsh+%F0%9F%91%8B;AI+Engineer+%40+Arcana+Info;Building+Agentic+AI+%26+RAG+Systems;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+n8n" alt="Typing SVG" />
 
 </div>
 
@@ -19,9 +19,9 @@ visitor@github:~$ cat ./about_me.txt
 
 ```yaml
 Name     : Allah Bukhsh
-Role     : Associate AI Engineer @ Arcana Info
+Role     : AI Engineer @ Arcana Info
 Focus    : Agentic AI · LLMs · RAG Pipelines · Banking & Insurance AI
-Degree   : AI, PAF-KIET
+Degree   : BS AI, PAF-KIET
 Location : Karachi, Pakistan
 Status   : [██████████░░] Shipping agentic systems for enterprise clients
 Collab   : OPEN — reach out anytime ✅
@@ -31,13 +31,15 @@ Collab   : OPEN — reach out anytime ✅
 
 ### `> whoami`
 
-- 🤖 Building **LLM-based chatbots & agentic systems** for enterprise banking/insurance clients — Allied Bank, State Bank of Pakistan, EFU Life Assurance, UBL
+- 🤖 Building **LLM-based chatbots & agentic AI systems** for enterprise banking/insurance clients — Allied Bank, State Bank of Pakistan, State Life Insurance, EFU Life Assurance, UBL
 - 🔗 Deep hands-on with **LangChain, LangGraph, RAG pipelines, FastAPI, n8n** workflow automation
-- 🏦 Shipped a full **Schedule-of-Charges automation system** (web scraping → LLM extraction → comparison → PostgreSQL → HTML/PDF reports)
-- 🕌 Built a **zero-hallucination Islamic Q&A multi-agent system** (Pinecone + Cohere rerank + Groq/Llama + FastAPI)
+- 🏦 Shipped a full **Allied Bank Schedule-of-Charges automation system** — LLM-based extraction → PostgreSQL integration → automated HTML/PDF report generation
+- 🗣️ Built a **voice & chat-enabled multilingual chatbot** for State Bank of Pakistan (3-agent architecture, LangChain + RAG + Arize Phoenix observability)
+- 🧩 Built a **multilingual RAG-based multi-agent system** for State Life Insurance with 6+ specialized agents (LangChain, LangGraph, LangSmith)
+- 🕌 Built a **near-zero-hallucination Islamic Q&A multi-agent system** (Pinecone + Cohere rerank + Groq/Llama + FastAPI)
 - 🔐 Designed **FPAAC** — a post-quantum-crypto IoT auth system (ML-KEM-1024 + X25519, ML-DSA-65, 4-factor MFA, hybrid RBAC+ABAC)
-- 📈 Worked on **SARIMA + LightGBM** time-series forecasting for banking transaction data
-- 🎓 Prior experience as Trainee Software Engineer @ Foxit Pvt. Ltd.
+- 📈 Built a **LightGBM transaction forecasting pipeline** that improved forecast correlation over a SARIMA baseline
+- 🎓 Prior experience as Trainee Software Engineer @ Foxit Pvt. Ltd. (ASP.NET MVC, MySQL, RESTful APIs)
 
 ---
 
@@ -82,10 +84,10 @@ Collab   : OPEN — reach out anytime ✅
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AllahBukhsh01&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllahBukhsh01&theme=react&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AllahBukhsh01&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&cache_seconds=86400" width="49%" />
+<img src="https://streak-stats.demolab.com?user=AllahBukhsh01&theme=react&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllahBukhsh01&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllahBukhsh01&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9&cache_seconds=86400" width="45%" />
 
 </div>
 
